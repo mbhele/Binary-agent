@@ -1,4 +1,4 @@
-This simply application converts binary string into english translated sentence. 
+This simply application, it converts binary string into english translated sentence. 
 
 Binary string must be into separated space
 
