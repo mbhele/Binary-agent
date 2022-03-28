@@ -17,7 +17,7 @@ Enjoy the basics of the basics!!!
 
 
 ## Licence & copyright
-@ Mbusiseni K Mbhele , Code25 
+@ Mbusiseni K Mbhele
 
 
 
